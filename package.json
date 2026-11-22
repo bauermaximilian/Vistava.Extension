@@ -1,0 +1,14 @@
+{
+  "name": "your_extension_id",
+  "version": "1.0.0",
+  "author": "YOUR NAME",
+  "description": "YOUR DESCRIPTION",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "scripts": {
+    "build": "node ./build/bundle-extension.js"
+  },
+  "devDependencies": {
+    "7zip-min": "^3.0.1"
+  }
+}

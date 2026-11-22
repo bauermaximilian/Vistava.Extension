@@ -1,0 +1,7 @@
+{
+   "moduleFileName": "your_extension_id/SourceYourExtension.js",
+   "configuration": {
+      "name": "Extension Label displayed in Vistava",
+      "imageTextPrefix": "ugh"
+   }
+}
